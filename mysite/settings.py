@@ -30,7 +30,7 @@ ALLOWED_HOSTS = [
     '.jakyungjung.shop',
     'localhost',
     '.ec2-3-34-194-239.ap-northeast-2.compute.amazonaws.com',
-    ''    
+    '*'    
 ]
 
 
